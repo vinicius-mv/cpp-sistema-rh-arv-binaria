@@ -1,0 +1,9 @@
+Vinicius;4000;estudante
+Pedro;5000;professor
+Julia;3000;professor
+Antonio;2000;auxiliar
+Claudia;9000;secretaria
+Rosana;10000;administrativo
+Joaquim;6000;tecnico
+Fernanda;1500;tecnico
+Rosa;13000;tecnico
